@@ -2,11 +2,14 @@
   "name": "with-jest",
   "version": "1.0.0",
   "dependencies": {
+    "grommet": "^2.9.0",
     "next": "9.1.4",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {
+    "@testing-library/react": "^9.4.0",
     "enzyme": "3.10.0",
     "enzyme-adapter-react-16": "1.15.1",
     "jest": "24.9.0",
